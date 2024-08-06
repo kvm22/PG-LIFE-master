@@ -10,7 +10,7 @@
 
 
 ### Home page
- ![Image 2]()
+ ![Image 2](https://github.com/kvm22/PG-LIFE-master/blob/my-new-branch/sss/home.png)
 
 
 
